@@ -8,7 +8,7 @@ sudo apt update
 sudo apt install git-lfs
 git lfs install
 
-For Windows:
+### For Windows:
 - Go to: https://git-lfs.github.com
 - Download and install
 - Then open Git Bash and run: git lfs install
