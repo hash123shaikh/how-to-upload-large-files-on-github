@@ -9,14 +9,3 @@
 
 ```bash
 git lfs install
-
-------------------------------------------------------------------
-
-## 2. Track big files
-Tell Git to use LFS for your big files:
-
-```bash
-git lfs track "*.mp4"
-git lfs track "*.dcm"
-
-This creates a `.gitattributes` file.
