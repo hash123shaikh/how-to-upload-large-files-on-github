@@ -29,5 +29,11 @@ git commit -m "add files"
 git push origin main
 ```
 
+## ✅ Notes:
 
+- Max file size = 2 GB
+
+- Git LFS free = 1 GB storage + 1 GB/month download
+
+- For files bigger than 2 GB → use Google Drive, Dropbox, or Zenodo and just add the download link in your README.
 
