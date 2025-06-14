@@ -18,7 +18,7 @@ Tell Git to use LFS for your big files:
 git lfs track "*.mp4"
 git lfs track "*.dcm"
 ```
-This creates a .gitattributes file.
+This creates a `.gitattributes` file.
 
 ## 3. Upload your files
 Now upload your files like normal:
